@@ -23,3 +23,5 @@ module negCount(CLK, sum);
         sum = sum +1;
     end
 endmodule
+
+
